@@ -1,6 +1,3 @@
-- 👋 Hi, I’m Japneet Pal Singh Kalkat
-- 📫 How to reach me japneetkalkat@gmail.com
-
 ## Projects
 
 ### Drupal
@@ -29,8 +26,3 @@
 
   ## C projects
 - [Game Development in C](https://github.com/Alwalid-Abushanab/Game-in-C)
-
-<!---
-Alwalid-Abushanab/Alwalid-Abushanab is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
