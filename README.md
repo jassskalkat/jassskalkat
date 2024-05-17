@@ -4,13 +4,11 @@
 
 - 👨‍💻 View all my [PROJECTS](https://github.com/jassskalkat/jassskalkat/blob/main/PROJECTS.md)
 
+- ⚡ Fun fact **I am very Funny**
+
 - 🌱 I’m currently learning **DevOps**
 
 - 📫 **japneetkalkat@outlook.com**
-
-- ⚡ Fun fact **I am very Funny**
-
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
