@@ -5,6 +5,9 @@
 - 👨‍💻 All of my projects are available at [https://japneetkalkat.com/](https://japneetkalkat.com/)
 
 - 📫 **japneetpalsinghkalkat@gmail.com**
+- - 👋 Hi, I’m Alwalid Abushanab
+- 👀 I’m interested in Software Engineering and Data Science
+- 📫 How to reach me A.sk.Abushanab@gmail.com
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
