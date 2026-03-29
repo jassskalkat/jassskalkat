@@ -3,11 +3,12 @@
 </p>
 
 <h1 align="center">Hi, I'm Japneet Kalkat</h1>
-<h3 align="center">Founder of Trailflow. I build AI-powered logistics software end to end, from product strategy and UX to backend systems, mobile apps, integrations, and production operations.</h3>
 
-<p align="left">
+<p align="center">
   <img src="https://komarev.com/ghpvc/?username=jassskalkat&label=Profile%20views&color=0e75b6&style=flat" alt="jassskalkat" />
 </p>
+
+<h3 align="center">Founder of Trailflow. I build AI-powered logistics software end to end, from product strategy and UX to backend systems, mobile apps, integrations, and production operations.</h3>
 
 - Building Trailflow, an AI-powered logistics SaaS for carriers, dispatchers, and operations teams
 - Built the whole business in less than 2 months using an AI-first Harness engineering workflow
