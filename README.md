@@ -10,7 +10,8 @@
 </p>
 
 - Building Trailflow, an AI-powered logistics SaaS for carriers, dispatchers, and operations teams
-- Built the MVP in less than 2 months and signed 7 paying customers in the first month
+- Built the whole business in less than 2 months using an AI-first Harness engineering workflow
+- Secured early partnerships and integration relationships with platforms including Orderful, Trimble, and 123Loadboard
 - Full-stack engineer with production experience across React, Next.js, Angular, Node.js, ASP.NET Core, Spring Boot, TypeScript, PostgreSQL, MySQL, mobile, data, and business systems
 - Strongest in turning messy real-world workflows into clean software that people actually use
 - Hands-on with telematics, mapping, OCR and LLM workflows, QuickBooks integrations, and multi-tenant SaaS architecture
@@ -22,7 +23,7 @@
 - AI products and agent workflows
 - Logistics, dispatch, tracking, routing, and operations software
 - Full-stack product engineering with React, Next.js, TypeScript, Convex, Node.js, Expo, and cloud infrastructure
-- Backend systems and integrations with PostgreSQL, MySQL, SQL Server, QuickBooks, telematics, and mapping platforms
+- Backend systems and integrations with PostgreSQL, MySQL, SQL Server, QuickBooks, telematics, EDI, and mapping platforms
 - Shipping fast without losing engineering quality
 
 <h3 align="left">Connect with me</h3>
@@ -82,7 +83,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobexd/FF61F6" alt="xd" width="40" height="40" /></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/xd/xd-original.svg" alt="xd" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Business, Analytics, and Product Tools</h3>
