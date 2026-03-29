@@ -41,7 +41,7 @@
 <p align="left">
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" /></a>
   <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40" /></a>
-  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40" /></a>
+  <a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/blender/F5792A" alt="blender" width="40" height="40" /></a>
   <a href="https://bun.sh" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/bun/000000" alt="bun" width="40" height="40" /></a>
   <a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40" /></a>
@@ -74,7 +74,7 @@
   <a href="https://redux.js.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40" /></a>
   <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40" /></a>
   <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40" /></a>
-  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/detain/svg-logos/master/svg/selenium-logo.svg" alt="selenium" width="40" height="40" /></a>
+  <a href="https://www.selenium.dev" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/selenium/43B02A" alt="selenium" width="40" height="40" /></a>
   <a href="https://www.sketch.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sketchapp/sketchapp-icon.svg" alt="sketch" width="40" height="40" /></a>
   <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40" /></a>
   <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original-wordmark.svg" alt="spring" width="40" height="40" /></a>
@@ -82,7 +82,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40" /></a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" /></a>
   <a href="https://angular.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" alt="angular" width="40" height="40" /></a>
-  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /></a>
+  <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"><img src="https://cdn.simpleicons.org/adobexd/FF61F6" alt="xd" width="40" height="40" /></a>
 </p>
 
 <h3 align="left">Business, Analytics, and Product Tools</h3>
@@ -91,3 +91,4 @@
 - JIRA, Confluence, Salesforce, SAP
 - QuickBooks, telematics, mapping, OCR, and LLM-based automation
 - Product strategy, systems design, workflow automation, machine learning, consulting, and early-stage execution
+- Additional tools and platforms shown above include Blender, Hadoop, OpenCV, Pandas, PyTorch, TensorFlow, Selenium, Sketch, and Adobe XD
