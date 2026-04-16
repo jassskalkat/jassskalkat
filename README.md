@@ -59,8 +59,20 @@
   </a>
 </p>
 <p align="left">
-  <strong>Design &amp; Workflow</strong><br />
-  Figma, Convex, Expo, SQL Server, Postman, OpenCV, Pandas, Blender, PyTorch, TensorFlow, Selenium, Sketch, Photoshop, Illustrator, XD, Hadoop, scikit-learn, and Seaborn.
+  <strong>Design Tools</strong><br />
+  Figma, Sketch, Photoshop, Illustrator, XD, and Blender.
+</p>
+<p align="left">
+  <strong>Testing &amp; Development</strong><br />
+  Postman and Selenium.
+</p>
+<p align="left">
+  <strong>Data Science &amp; ML</strong><br />
+  OpenCV, Pandas, PyTorch, TensorFlow, scikit-learn, and Seaborn.
+</p>
+<p align="left">
+  <strong>Platforms &amp; Workflow</strong><br />
+  Convex, Expo, SQL Server, and Hadoop.
 </p>
 
 <h3 align="left">Business, Analytics, and Product Tools</h3>
