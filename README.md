@@ -67,7 +67,7 @@
   Postman and Selenium.
 </p>
 <p align="left">
-  <strong>Data Science &amp; ML</strong><br />
+  <strong>Data Science &amp; Machine Learning</strong><br />
   OpenCV, Pandas, PyTorch, TensorFlow, scikit-learn, and Seaborn.
 </p>
 <p align="left">
