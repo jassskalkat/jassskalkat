@@ -47,9 +47,9 @@
   </a>
 </p>
 <p align="left">
-  <strong>Frontend &amp; Product</strong><br />
+  <strong>Frontend</strong><br />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,redux,figma" alt="Frontend and product tools" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,angular,tailwind,redux" alt="Frontend tools" />
   </a>
 </p>
 <p align="left">
@@ -59,7 +59,8 @@
   </a>
 </p>
 <p align="left">
-  Also work with Convex, Expo, SQL Server, Postman, OpenCV, Pandas, Blender, PyTorch, TensorFlow, Selenium, Sketch, Photoshop, Illustrator, XD, Hadoop, scikit-learn, and Seaborn.
+  <strong>Design &amp; Workflow</strong><br />
+  Figma, Convex, Expo, SQL Server, Postman, OpenCV, Pandas, Blender, PyTorch, TensorFlow, Selenium, Sketch, Photoshop, Illustrator, XD, Hadoop, scikit-learn, and Seaborn.
 </p>
 
 <h3 align="left">Business, Analytics, and Product Tools</h3>
